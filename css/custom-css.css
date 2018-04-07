@@ -1,0 +1,26 @@
+/*custom css */
+.project-card-size {
+	width: 300px;
+	height: 200px;
+	}
+	
+.splash-image {
+  width: 100%;
+  position: relative;
+  height: 300px;
+}
+.hr-short {
+  margin: 6rem 0; /* Space out the Bootstrap <hr> more */
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+.img-scale {
+    max-width: 300%;
+    height: auto;
+	margin-right: .75rem;
+	padding-right: .75rem;
+}
+.portfolio-margin {
+	margin-top: .75rem;
+}
+.logo-left
