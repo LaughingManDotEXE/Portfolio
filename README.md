@@ -9,3 +9,5 @@ Note: one image shows half kibana display on top of a terminal running Top. Will
 javascript directory(Bootstrap) for nav bar dropdown (out of scope of Portfolio however I wanted to include it)
 
 Description: This is a portfolio page to showcase projects I have worked on. This uses some custom styling and heavily uses Bootstrap for grid layout. 
+
+How to Run: Download all files, then double click the portfolio.html file.
